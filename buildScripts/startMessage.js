@@ -1,3 +1,3 @@
 import chalk from 'chalk';
 
-console.log(chalk.green('starting up in dev mode....')); // eslint-disable-line no-console
+console.log(chalk.green('startin up in dev mode....')); // eslint-disable-line no-console
